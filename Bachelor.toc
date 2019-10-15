@@ -1,0 +1,47 @@
+\contentsline {section}{Acknowledgements}{II}{section*.1}% 
+\contentsline {section}{Contents}{III}{section*.1}% 
+\contentsline {section}{List of Figures}{V}{section*.2}% 
+\contentsline {section}{List of Tables}{VI}{section*.3}% 
+\contentsline {section}{List of Abbreviations}{VII}{section*.4}% 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Motivation}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Research Question}{4}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Research Goal}{5}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Methodology}{6}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}Thesis Structure}{7}{subsection.1.5}% 
+\contentsline {section}{\numberline {2}Related Work}{8}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Automated Content Creation}{8}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Graph Generation}{10}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}User In Motion MR}{13}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}AR Interfaces}{16}{subsection.2.4}% 
+\contentsline {section}{\numberline {3}Approach}{18}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Concept}{18}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Design Process}{20}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}VR Model Building}{21}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Information Processing}{24}{subsection.3.4}% 
+\contentsline {section}{\numberline {4}Implementation}{27}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Unity Prefab Creation}{27}{subsection.4.1}% 
+\contentsline {subsubsection}{\numberline {4.1.1}Point of View}{27}{subsubsection.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.1.2}GroupNode}{28}{subsubsection.4.1.2}% 
+\contentsline {subsubsection}{\numberline {4.1.3}PaperNode}{29}{subsubsection.4.1.3}% 
+\contentsline {subsubsection}{\numberline {4.1.4}ImageHolder}{30}{subsubsection.4.1.4}% 
+\contentsline {subsubsection}{\numberline {4.1.5}InfoPanel}{30}{subsubsection.4.1.5}% 
+\contentsline {subsection}{\numberline {4.2}Constraints}{32}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Graph Symmetry}{33}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}AR Content Placement}{35}{subsubsection.4.2.2}% 
+\contentsline {subsubsection}{\numberline {4.2.3}Height Allocation}{39}{subsubsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.3}Tools}{42}{subsection.4.3}% 
+\contentsline {subsubsection}{\numberline {4.3.1}Unity 3D}{42}{subsubsection.4.3.1}% 
+\contentsline {subsubsection}{\numberline {4.3.2}Visual Studio Code}{42}{subsubsection.4.3.2}% 
+\contentsline {subsubsection}{\numberline {4.3.3}Visual Studio Community 2017}{43}{subsubsection.4.3.3}% 
+\contentsline {subsubsection}{\numberline {4.3.4}Mixed Reality Toolkit (MRTK)}{43}{subsubsection.4.3.4}% 
+\contentsline {subsubsection}{\numberline {4.3.5}Microsoft HoloLens Emulator}{44}{subsubsection.4.3.5}% 
+\contentsline {subsubsection}{\numberline {4.3.6}Microsoft HoloLens}{44}{subsubsection.4.3.6}% 
+\contentsline {subsubsection}{\numberline {4.3.7}Programming Language C\#}{45}{subsubsection.4.3.7}% 
+\contentsline {subsubsection}{\numberline {4.3.8}TextMeshPro}{46}{subsubsection.4.3.8}% 
+\contentsline {section}{\numberline {5}Evaluation Plan}{47}{section.5}% 
+\contentsline {section}{\numberline {6}Conclusion}{49}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Summary}{49}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Outlook}{51}{subsection.6.2}% 
+\contentsline {section}{References}{VIII}{section*.5}% 
+\contentsline {section}{Statement in Lieu of an Oath}{XII}{section*.6}% 

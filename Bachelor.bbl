@@ -1,0 +1,221 @@
+\begin{thebibliography}{10}
+
+\bibitem{tmpro}
+Textmesh pro.
+\newblock
+  \url{https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126}.
+
+\bibitem{vscode}
+Documentation for visual studio code.
+\newblock \url{https://code.visualstudio.com/docs}, Apr 2016.
+
+\bibitem{understanding}
+Hololens contest – spatial mapping, processing, understanding.
+\newblock \url{http://talesfromtherift.com/hololens-contest-week-10/}, Sep
+  2017.
+
+\bibitem{radialgraph}
+Christian Bachmaier, Franz~J. Brandenburg, and Michael Forster.
+\newblock Radial level planarity testing and embedding in linear time.
+\newblock In Giuseppe Liotta, editor, {\em Graph Drawing}, pages 393--405,
+  Berlin, Heidelberg, 2004. Springer Berlin Heidelberg.
+
+\bibitem{emulator}
+Paul Barnett and et.al.
+\newblock Using the hololens emulator - mixed reality.
+\newblock
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-hololens-emulator}.
+
+\bibitem{interfaces}
+Mark Billinghurst, Adrian Clark, and Gun Lee.
+\newblock A survey of augmented reality.
+\newblock {\em Foundations and Trends® in Human-Computer Interaction},
+  8:73--272, 01 2015.
+
+\bibitem{sutherland}
+Julie Carmigniani and Borko Furht.
+\newblock {\em Augmented Reality: An Overview}, pages 3--46.
+\newblock Springer New York, New York, NY, 2011.
+
+\bibitem{arhopscotch}
+M.~{Chessa} and F.~{Solari}.
+\newblock [poster] walking in augmented reality: An experimental evaluation by
+  playing with a virtual hopscotch.
+\newblock In {\em 2017 IEEE International Symposium on Mixed and Augmented
+  Reality (ISMAR-Adjunct)}, Oct 2017.
+
+\bibitem{chemistry}
+Ishan~R. Dave, Vikas Chaudhary, and Kishor~P. Upla.
+\newblock Simulation of analytical chemistry experiments on augmented reality
+  platform.
+\newblock In Chhabi~Rani Panigrahi, Arun~K. Pujari, Sudip Misra, Bibudhendu
+  Pati, and Kuan-Ching Li, editors, {\em Progress in Advanced Computing and
+  Intelligent Engineering}, pages 393--403, Singapore, 2019. Springer
+  Singapore.
+
+\bibitem{csharp}
+Dotnet-Bot.
+\newblock Einführungintroduction - c-sharp language specification.
+\newblock
+  \url{https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/language-specification/introduction},
+  Jul 2017.
+
+\bibitem{gartner02}
+Inc. and/or its~affiliates. Gartner.
+\newblock Business and technology trends.
+\newblock \url{https://www.gartner.com/smarterwithgartner/}.
+
+\bibitem{gartner01}
+Inc. and/or its~affiliates. Gartner.
+\newblock Hype cycle research methodology.
+\newblock
+  \url{https://www.gartner.com/en/research/methodologies/gartner-hype-cycle}.
+
+\bibitem{4D}
+Mani Golparvar-Fard, F~Pena-Mora, and Silvio Savarese.
+\newblock Application of d4ar - a 4-dimensional augmented reality model for
+  automating construction progress monitoring data collection, processing and
+  communication.
+\newblock {\em Journal of Information Technology in Construction}, 14:129--153,
+  06 2009.
+
+\bibitem{frameworkAutomation}
+Alastair Hampshire, Hartmut Seichter, Raphael Grasset, and Mark Billinghurst.
+\newblock Augmented reality authoring: Generic context from programmer to
+  designer.
+\newblock volume 409-412, pages 409--412, 01 2006.
+
+\bibitem{hevner}
+Alan~R. Hevner and Samir Chatterjee.
+\newblock {\em Design Research in Information Systems - Theory and Practice}.
+\newblock Springer, 2010.
+
+\bibitem{mrtk}
+Stephen Hodgson, David Kline, and et.al.
+\newblock microsoft/mixedrealitytoolkit-unity.
+\newblock \url{https://github.com/Microsoft/MixedRealityToolkit-Unity}, Apr
+  2019.
+
+\bibitem{doi}
+International DOI Foundation DOI~Handbook Introduction.
+\newblock \url{https://www.doi.org/doi_handbook/1_Introduction.html}, Oct 2015.
+
+\bibitem{cycle01}
+J.H. Kloss.
+\newblock {\em Potentials and challenges of mobile augmented reality}, pages
+  110--125.
+\newblock 01 2011.
+
+\bibitem{NLP}
+Akshay Kulkarni and Adarsha Shivananda.
+\newblock {\em Natural Language Processing Recipes - Unlocking Text Data with
+  Machine Learning and Deep Learning using Python}.
+\newblock Apress, 2019.
+
+\bibitem{mempalace}
+Eric Legge, Christopher~R. Madan, Enoch Ng, and Jeremy~B. Caplan.
+\newblock Building a memory palace in minutes: equivalent memory performance
+  using virtual versus conventional environments with the method of loci.
+\newblock {\em Acta psychologica}, 141 3:380--90, 2012.
+
+\bibitem{livingston}
+Mark~A. Livingston, Lawrence~J. Rosenblum, Dennis~G. Brown, Gregory~S. Schmidt,
+  Simon~J. Julier, Yohan Baillot, J.~Edward Swan, Zhuming Ai, and Paul Maassel.
+\newblock {\em Military Applications of Augmented Reality}, pages 671--706.
+\newblock Springer New York, New York, NY, 2011.
+
+\bibitem{motivation0}
+Paul Milgram, Haruo Takemura, Akira Utsumi, and Fumio Kishino.
+\newblock Augmented reality: A class of displays on the reality-virtuality
+  continuum.
+\newblock {\em Telemanipulator and Telepresence Technologies}, 2351, 01 1994.
+
+\bibitem{pokemon}
+Janne Paavilainen, Hannu Korhonen, Kati Alha, Jaakko Stenros, Elina Koskinen,
+  and Frans Mayra.
+\newblock The pok{\'e}mon go experience: A location-based augmented reality
+  mobile game goes mainstream.
+\newblock In {\em Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems}, CHI '17, pages 2493--2498, New York, NY, USA, 2017. ACM.
+
+\bibitem{rocco}
+Rocco Raso, Sebastian Cucerca, Dirk Werth, and Peter Loos.
+\newblock {\em Automated Augmented Reality Content Creation for Print Media},
+  pages 245--261.
+\newblock Springer International Publishing, Cham, 2016.
+
+\bibitem{walkable}
+Rocco Raso, Johannes Lahann, Peter Fettke, and Peter Loos.
+\newblock Walkable graph: An immersive augmented reality interface for
+  performing the memory palace method.
+\newblock Emergent Research Forum (ERF) Papers, 2019.
+
+\bibitem{graphGen}
+Ronald~C. Read.
+\newblock A survey of graph generation techniques.
+\newblock In Kevin~L. McAvaney, editor, {\em Combinatorial Mathematics VIII},
+  pages 77--89, Berlin, Heidelberg, 1981. Springer Berlin Heidelberg.
+
+\bibitem{digestiv2}
+Luc Soler, Hervé Delingette, Grégoire Malandain, Johan Montagnat, Nicholas
+  Ayache, Christophe Koehl, Olivier Dourthe, Benoit Malassagne, Michelle Smith,
+  Didier Mutter, and Jacques Marescaux.
+\newblock Fully automatic anatomical, pathological, and functional segmentation
+  from ct scans for hepatic surgery.
+\newblock {\em Computer Aided Surgery}, 6:131 -- 142, 01 2001.
+
+\bibitem{digestiv}
+Luc Soler, Stéphane Nicolau, Jerome Schmid, Christophe Koehl, Jacques
+  Marescaux, Xavier Pennec, and Nicholas Ayache.
+\newblock Virtual reality and augmented reality in digestive surgery.
+\newblock pages 278-- 279, 12 2004.
+
+\bibitem{unity2}
+Unity Technologies.
+\newblock Unity - products.
+\newblock \url{https://unity3d.com/unity}.
+
+\bibitem{unity1}
+Unity Technologies.
+\newblock Unity - prefabs.
+\newblock \url{https://docs.unity3d.com/Manual/Prefabs.html}, Jul 2018.
+
+\bibitem{holodoc2}
+Alex Turner and et.al.
+\newblock Gestures - mixed reality.
+\newblock
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/gestures}.
+
+\bibitem{wake2019}
+Nicole Wake, Andrew~B. Rosenkrantz, Richard Huang, Katalina~U. Park, James~S.
+  Wysock, Samir~S. Taneja, William~C. Huang, Daniel~K. Sodickson, and Hersh
+  Chandarana.
+\newblock Patient-specific 3d printed and augmented reality kidney and prostate
+  cancer models: impact on patient education.
+\newblock {\em 3D Printing in Medicine}, 5(1):4, Feb 2019.
+
+\bibitem{vsstudio}
+Genevieve Warren, Nick Schonning, Terry~G. Lee, and Gordon Hogenson.
+\newblock Overview for c-sharp developers - visual studio.
+\newblock
+  \url{https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/visual-studio-ide?view=vs-2019}.
+
+\bibitem{wilde}
+Thomas Wilde and Thomas Hess.
+\newblock Forschungsmethoden der wirtschaftsinformatik.
+\newblock {\em WIRTSCHAFTSINFORMATIK}, 49(4):280--287, Aug 2007.
+
+\bibitem{holodoc}
+Matt Zeller and et.al.
+\newblock Hololens hardware details - mixed reality.
+\newblock
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/hololens-hardware-details}.
+
+\bibitem{mapping}
+Matt Zeller and et.al.
+\newblock Spatial mapping - mixed reality.
+\newblock
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/spatial-mapping},
+  Mar 2018.
+
+\end{thebibliography}
